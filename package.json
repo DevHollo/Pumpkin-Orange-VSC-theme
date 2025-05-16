@@ -1,0 +1,23 @@
+{
+  "name": "pumpkin-orange-vsc",
+  "displayName": "Pumpkin Orange",
+  "description": "A nice orange accent for vscode",
+  "version": "0.0.1",
+  "publisher": "HolloDaPumpkin",
+  "repository": "https://github.com/DevHollo/Pumpkin-Orange-VSC-theme",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pumpkin Orange",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pumpkin Orange-color-theme.json"
+      }
+    ]
+  }
+}
